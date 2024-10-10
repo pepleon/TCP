@@ -11,11 +11,11 @@ This project process binary packet data and handle missing packet request with t
 clone the repo
 
 and run the command 
-"npm main.js" 
+"node main.js" 
 
 and
 
-"npm client.js"
+"node client.js"
 
 A json file will be created whose objects will be the stocks with their symbol and stuffs like status buy/sell (indicator), price, quantity and their sequence.
 
